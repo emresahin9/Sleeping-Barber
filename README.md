@@ -1,1 +1,1 @@
-# Uyuyan Berber senkronizasyon problemininin, semaphore'lar kullanılarak çözülen C kodu.
+Uyuyan Berber senkronizasyon problemininin, semaphore'lar kullanılarak çözülen C kodu.
